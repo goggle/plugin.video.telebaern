@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.telebaern" name="TeleBärn" version="0.7.9" provider-name="Alexander Seiler">
+<addon id="plugin.video.telebaern" name="TeleBärn" version="0.9.0" provider-name="Alexander Seiler">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.azmedien" version="0.7.9"/>
@@ -18,7 +18,8 @@
     <website>https://www.telebaern.tv</website>
     <email>seileralex@gmail.com</email>
     <source>https://github.com/goggle/plugin.video.telebaern</source>
-    <news></news>
+    <news>v0.9.0 (2018-10-xx) TODO
+ - First release.</news>
     <assets>
         <icon>resources/icon.png</icon>
         <fanart>resources/fanart.jpg</fanart>
