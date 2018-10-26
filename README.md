@@ -27,7 +27,7 @@ If you like this plugin, consider to make a donation to the author of the plugin
 | Bitcoin | 14d2as82kQ3mRoCSyrnHNoDi8PkFvxMMgP | ![Bitcoin address](https://raw.githubusercontent.com/goggle/plugin.video.srfplaytv/af1c696004d9b42c730dc55f7e66596ec3521b99/bitcoin.png) |
 
 
-<!-- ## Screenshots -->
-<!-- ![Shows overview](https://raw.githubusercontent.com/goggle/plugin.video.telebaern/master/resources/screenshot-01.png) -->
-<!-- ![Available episodes of a show](https://raw.githubusercontent.com/goggle/plugin.video.telebaern/master/resources/screenshot-02.png) -->
-<!-- ![Episode information](https://raw.githubusercontent.com/goggle/plugin.video.telebaern/master/resources/screenshot-03.png) -->
+## Screenshots
+![Shows overview](https://raw.githubusercontent.com/goggle/plugin.video.telebaern/master/resources/screenshot-01.png)
+![Available episodes of a show](https://raw.githubusercontent.com/goggle/plugin.video.telebaern/master/resources/screenshot-02.png)
+![Episode information](https://raw.githubusercontent.com/goggle/plugin.video.telebaern/master/resources/screenshot-03.png)
