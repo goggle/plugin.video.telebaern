@@ -12,6 +12,8 @@
     <summary lang="de_DE">TeleBärn Mediathek</summary>
     <description lang="en_GB">Watch all the shows of the local Swiss TV station TeleBärn.</description>
     <description lang="de_DE">Sehen Sie alle Sendungen des lokalen schweizer Fernsehrsender TeleBärn.</description>
+    <disclaimer lang="en_GB">This is an unofficial addon.</disclaimer>
+    <disclaimer lang="de_DE">Dies ist ein inofizielles Addon.</disclaimer>
     <language>de</language>
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
